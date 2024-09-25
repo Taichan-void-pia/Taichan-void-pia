@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taichan-void-pia)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taichan-void-pia&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taichan-void-pia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taichan-void-pia)](https://github.com/anuraghazra/github-readme-stats)
 
 <---
 Taichan-void-pia/Taichan-void-pia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
