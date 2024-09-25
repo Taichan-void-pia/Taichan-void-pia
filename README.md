@@ -10,7 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taichan-void-pia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<---
-Taichan-void-pia/Taichan-void-pia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taichan-void-pia&repo=lanahiromod&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
