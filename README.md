@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taichan-void-pia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taichan-void-pia&repo=lanahiromod&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taichan-void-pia&repo=LanahiroMOD&show_owner=true)](https://github.com/Taichan-void-pia/LanahiroMOD)
